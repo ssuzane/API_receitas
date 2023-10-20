@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #8FBC8F;
+}
+
+.body{
+    width: 100vw;
+    height: 100vw;
+}
+.headerCima img{
+    width: 100%;
+}
+
+.headerBaixo img{
+    margin-top: 40%;
+    margin-bottom: 0%;
+    width: 100%;
+}
+
+.tituloP{
+    text-align: center;
+    margin-top: 2%;
+    font-family: 'Lexend Deca', sans-serif;;
+    color: aliceblue;
+    font-size: 35px;
+}
+
+.barrinha{
+    background-color: #739573;
+    border-radius: 10%;
+    height: 5px;
+    width: 400px;
+    align-items: center;
+    margin-left: 38%;
+    
+}
+
+.titulo img{
+    margin-left: 65%;
+   
+}
